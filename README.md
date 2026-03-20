@@ -9,7 +9,7 @@ I'm a **Data Engineer focused on building end-to-end data pipelines**, transform
 
 ## 🚀 Featured Projects
 
-### [📊 Occupational Therapy Analytics](link-do-seu-repositorio)
+### [📊 Patient Adherence Data Pipeline](https://github.com/cesardelpupo/patient-adherence-data-pipeline)
 *Built an **end-to-end data pipeline** to analyze patient attendance behavior and its impact on revenue predictability, transforming manual records into a structured analytical model using **Python**, **SQL**, and **Power BI**.*
 
 ### [🏠 Airbnb NYC Data Analysis](https://github.com/cesardelpupo/airbnb_nyc)
